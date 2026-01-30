@@ -19,14 +19,21 @@ Mi enfoque es el aprendizaje continuo, la resolución de desafíos complejos y l
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5E5E?style=for-the-badge&logo=json&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![XML](https://img.shields.io/badge/xml-%230060ac.svg?style=for-the-badge&logo=xml&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## IDEs y Herramientas 🛠️
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+![VirtualBox](https://img.shields.io/badge/VirtualBox-214378?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ---
 
@@ -35,3 +42,10 @@ Mi enfoque es el aprendizaje continuo, la resolución de desafíos complejos y l
 ![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 ---
 > *¡Gracias por visitar mi perfil! Siempre estoy abierto a colaborar en proyectos interesantes.*
+
+---
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=polodiazalejandro2-coder&color=blue&style=flat-square" />
+</p>
